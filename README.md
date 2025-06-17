@@ -30,10 +30,7 @@ Start the React app:npm start
 
 
 
-Usage
 
-Access the app at http://localhost:3000.
-The backend API runs at http://localhost:5000.
 
 Dataset
 
